@@ -1,0 +1,39 @@
+div {
+    border: 1px solid black;
+    width: 900px;
+    height: 900px;
+    margin: 0;
+    padding: 0;
+}
+#A1 {
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+#A2 {
+    border: 1px solid black;
+    width: 494px;
+    height: 200px;
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+#B1 {
+    border: 1px solid black;
+    width: 200px;
+    height: 500px;
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+#B2 {
+    border: 1px solid black;
+    width: 494px;
+    height: 500px;
+    margin: 0;
+    padding: 0;
+    float: left;
+}
